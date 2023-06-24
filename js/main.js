@@ -49,7 +49,7 @@ function area(){
     BA=parseInt(prompt("Por favor ingrese la base del triangulo."))
     AL=parseInt(prompt("Por favor ingrese la altura del triangulo."))
     AR=(BA*AL)/2;
-    alert("El area del triangulo es: "+AR)
+    alert("El area del triangulo es: "+AR+" cuadrados.")
 }
 /*
 Un individuo desea invertir su capital en un banco y requiere un sistema que le permita saber cuanto dinero
