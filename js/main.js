@@ -48,7 +48,7 @@ function area(){
     let AR=0;
     BA=parseInt(prompt("Por favor ingrese la base del triangulo."))
     AL=parseInt(prompt("Por favor ingrese la altura del triangulo."))
-    AR=BA*AL/2;
+    AR=(BA*AL)/2;
     alert("El area del triangulo es: "+AR)
 }
 /*
